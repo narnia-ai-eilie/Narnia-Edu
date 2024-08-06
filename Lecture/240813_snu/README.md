@@ -11,3 +11,6 @@
 
 **페이지**
 - https://sites.google.com/narnia.ai/240813seoul/%ED%99%88
+
+**데이터셋**
+- https://drive.google.com/drive/folders/1EgPK0eYa9ICqg5FBhz49qy3tM5LS21Oe?usp=drive_link
