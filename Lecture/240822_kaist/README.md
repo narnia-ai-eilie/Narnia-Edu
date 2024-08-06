@@ -12,3 +12,6 @@
 
 **페이지**
 - https://sites.google.com/narnia.ai/240822kaist/%ED%99%88
+
+**데이터셋**
+- https://drive.google.com/drive/folders/1jT7SKKDBfQ0Y59B7zmKTbUm-dbmyHNVK?usp=drive_link
