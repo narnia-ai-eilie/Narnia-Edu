@@ -1,4 +1,6 @@
 # 서울대학교 데이터기반 유한요소 해석
+=======
+# 데이터기반 유한요소 해석
 
 - **일시** : 2024 8월 13일 (화) 9:30 ~ 17:00
 
@@ -14,3 +16,8 @@
 
 **데이터셋**
 - https://drive.google.com/drive/folders/1EgPK0eYa9ICqg5FBhz49qy3tM5LS21Oe?usp=drive_link
+=======
+
+- 생성형 AI를 이용한 3D 설계안 생성과 Non-parametric 최적화 방법론에 대해 소개한다. 최신 3D 딥러닝 기술을 바탕으로 한 Data-Driven Design Optimization의 최신 동향을 익히고, 전통적인 최적설계 기법과의 차별점을 이해한게 된다. Python으로 기초 실습을 하고, No-code AI 플랫폼을 이용하여 응용 실습을 진행한다.
+
+**페이지** : https://sites.google.com/narnia.ai/240813seoul/%ED%99%88
